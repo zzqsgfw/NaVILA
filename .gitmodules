@@ -1,0 +1,3 @@
+[submodule "NaVILA-Bench"]
+	path = NaVILA-Bench
+	url = https://github.com/zzqsgfw/NaVILA_BenchMark.git

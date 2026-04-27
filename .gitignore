@@ -58,3 +58,9 @@ evaluation/habitat-lab
 evaluation/habitat-sim
 evaluation/data
 evaluation/eval_out
+
+# Datasets (downloaded separately, do not track)
+data/
+
+# Claude Code session state
+.claude/
