@@ -64,3 +64,8 @@ data/
 
 # Claude Code session state
 .claude/
+
+# local-only context: stubs (per-machine), planning docs, reports
+_stubs/
+plan/
+report/
